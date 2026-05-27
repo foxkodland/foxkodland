@@ -3,21 +3,25 @@
 Меня зовут Павел, я web и python разработчик.
 
 ### Web-разработка:
+- Создаю современные, адаптивные и отзывчивые приложения — от SPA до сложных веб-решений
+- Также веб-приложения для Telegram (webapp-tg)
+
 #### Frontend
- - Стэк: React, TypeScript, Redux или нативные HTML, CSS (scss), JavaScript  
- - Создаю современные, адаптивные и отзывчивые приложения — от SPA до сложных веб-решений
- - Также веб-приложения для Telegram (webapp-tg)
+- React, TypeScript, Redux
+- Нативные HTML, CSS (SCSS), JavaScript  
+
 #### Backend:
- - Python: Fastapi, Flask
- - Node.js: Next.js
- - Базы данных: PostgreSQL, SQLite, Redis для кэша
+- Python: Fastapi, Flask
+- Node.js: Next.js
+- Базы данных: PostgreSQL, SQLite, Redis для кэша
+
 #### Deploy:
  - Docker, Docker Compose
  - Nginx + SSL
  - CI/CD с помощью GitHub Actions
 
 ### Python-разработка:
-Стэк: fastapi, sqlalchemy, pandas, asyncio, aiohttp, matplotlib, scikit-learn, pytest, bs4 
+Стэк: fastapi, sqlalchemy, pandas, asyncio, aiohttp, matplotlib, scikit-learn, pytest, bs4 и тд
  - Разрабатываю асинхронные и многопоточные проекты
  - Создаю API и серверные решения
  - Разрабатываю чат-боты
@@ -45,4 +49,28 @@
  - CI/CD: сборка фронта и деплой на сервер
  - Авторизация: подтверждение и восстановление аккаунта по email
 
+## Web-app в telegram для изучения китайского языка
+| ![Uploading Главная.png…]() |  |  |
+|:--------------:|:--------------:|:--------------:|
+
+
+
+
+
+
+На этом проекте реализовал весь фронтенд и обеспечил его полную интеграцию с backend по REST API.
+#### О проекте:
+Приложение для изучения китайского языка: 
+- Интерактивное изучение слов
+- Списки слов по темам 
+- Тренировка написания
+- Импорт своих слов из файла или фото
+- Чат с ботами, у которых разный уровень HSK
+
+#### Технологии:
+ - React + TS
+ - Rebux: для оптимизации слов и словарей
+ - Web-app в телеграмм + Адаптивный дизайн для телефона и компьютера
+ - Больше 40 экранов в Figma
+ - Разные уровни доступа в зависимости от подписки
 
