@@ -1,4 +1,4 @@
-## Hi there 👋
+## Доброго времени суток 👋
 
 <!--
 **foxkodland/foxkodland** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
