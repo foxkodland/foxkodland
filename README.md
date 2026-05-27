@@ -25,19 +25,24 @@
 
 ## Мои работы
 
+### Сайт для турниров по Fifa
+!! картинка
+
+В этом проекте — идея заказчика, а вся реализация (дизайн, фронтенд, бэкенд, настройка сервера) выполнена мной.
+
+#### О проекте:
+Сайт-платформа для проведения турниров по Fifa.
+ - Форматы турниров: single elimination, doble elimination, swiss и round-robin
+ - Профили участников, лайки, история матчей и личных противостояний
+ - Автоматическое продвижение по турнирной сетке
+ - Возможность создать дуэль 1 на 1 (с паролем и без)
+
+#### Технологии:
+ - Front: React + Ts, управление состоянием через Redux
+ - Backend: Fastapi + Postgres + Redis
+ - Развёртывание: 4 контейнера в docker-compose
+ - Миграции: Alembic
+ - CI/CD: сборка фронта и деплой на сервер
+ - Авторизация: подтверждение и восстановление аккаунта по email
 
 
-<!--
-**foxkodland/foxkodland** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
