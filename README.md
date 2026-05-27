@@ -1,35 +1,37 @@
 ## Доброго времени суток 👋
-
 Меня зовут Павел, я web и python разработчик.
+***
 
-### Web-разработка:
+#### 🌐 Web-разработка:
 - Создаю современные, адаптивные и отзывчивые приложения — от SPA до сложных веб-решений
 - Также веб-приложения для Telegram (webapp-tg)
 
-#### Frontend
+##### Frontend
 - React, TypeScript, Redux
 - Нативные HTML, CSS (SCSS), JavaScript  
 
-#### Backend:
+##### Backend
 - Python: Fastapi, Flask
 - Node.js: Next.js
 - Базы данных: PostgreSQL, SQLite, Redis для кэша
 
-#### Deploy:
- - Docker, Docker Compose
- - Nginx + SSL
- - CI/CD с помощью GitHub Actions
-
-### Python-разработка:
+#### 🐍 Python-разработка:
 Стэк: fastapi, sqlalchemy, pandas, asyncio, aiohttp, matplotlib, scikit-learn, pytest, bs4 и тд
  - Разрабатываю асинхронные и многопоточные проекты
  - Создаю API и серверные решения
  - Разрабатываю чат-боты
  - Работаю с API, парсерами и различными скриптами для автоматизации задач
+ - Пишу все, что пишется 😀
 
-## Мои работы
+#### 📦 Deploy:
+ - Docker, Docker Compose
+ - Nginx + SSL
+ - CI/CD с помощью GitHub Actions
 
-### Сайт для турниров по Fifa
+***
+
+# Мои работы
+### ⚽ Сайт для турниров по Fifa
 !! картинка
 
 В этом проекте — идея заказчика, а вся реализация (дизайн, фронтенд, бэкенд, настройка сервера) выполнена мной.
@@ -49,21 +51,18 @@
  - CI/CD: сборка фронта и деплой на сервер
  - Авторизация: подтверждение и восстановление аккаунта по email
 
-## Web-app в telegram для изучения китайского языка
+***
+
+## ⛩️ Web-app в telegram для изучения китайского языка
+
 <p align="center">
- <img width="552" height="1006" alt="Тренировка написания" src="https://github.com/user-attachments/assets/61584b64-41f5-43db-9680-e839a9ce2ffe" />
- <img width="552" height="1006" alt="Сканирование фото" src="https://github.com/user-attachments/assets/eec26573-c69f-4ad1-b5ac-6174cd92b618" />
+ <img width="200" alt="1 (1)" src="https://github.com/user-attachments/assets/3a56bc52-cdfa-4d4b-b8ea-3187bbd1eb0e" />
+ <img width="200" alt="2" src="https://github.com/user-attachments/assets/82c32534-4f4b-4d5b-8fdb-58f43982d030" />
+ <img width="200" alt="3" src="https://github.com/user-attachments/assets/12347dee-bc3a-460b-8f0c-df017ef96cb0" />
+ <img width="200" alt="4" src="https://github.com/user-attachments/assets/56a12848-4d47-434a-8c0c-008adaa8b449" />
 </p>
 
-
-
-
-
-
-
-
-
-На этом проекте реализовал весь фронтенд и обеспечил его полную интеграцию с backend по REST API. (Дизайн и бэк от заказчика)
+На этом проекте реализовал весь фронтенд и обеспечил его полную интеграцию с backend по REST API (Дизайн и бэк от заказчика).
 #### О проекте:
 Приложение для изучения китайского языка: 
 - Интерактивное изучение слов
@@ -74,8 +73,9 @@
 
 #### Технологии:
  - React + TS
- - Rebux: для оптимизации слов и словарей
- - Web-app в телеграмм + Адаптивный дизайн для телефона и компьютера
- - Больше 40 экранов в Figma
+ - Rebux: данных много, нужен кэш для оптимизации
+ - Web-app в Telegram + адаптивный дизайн для телефона и компьютера
+ - Больше 50 экранов в Figma
  - Разные уровни доступа в зависимости от подписки
+ - Генерация QR-кода для реферальной программы
 
