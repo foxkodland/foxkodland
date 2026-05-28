@@ -154,3 +154,8 @@
  - Мертвые сессии удаляются из пула
  - Учтены лимиты telegram
  - Работа с asyncio.to_thread() для тяжёлых синхронных задач
+
+# 📱 Контакты
+Связь со мной:
+ - Telegram: [@Shirdream](https://t.me/shirdream)
+ - Email:  [foxkodland@gmail.com](mailto:foxkodland@gmail.com)
