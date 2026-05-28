@@ -16,12 +16,11 @@
 - Базы данных: PostgreSQL, SQLite, Redis для кэша
 
 #### 🐍 Python-разработка:
-Стэк: fastapi, sqlalchemy, pandas, asyncio, aiohttp, matplotlib, scikit-learn, pytest, bs4 и тд
+Стэк: asyncio, aiohttp, fastapi, sqlalchemy, pandas, matplotlib, scikit-learn, pytest, selenium, bs4 и тд
  - Разрабатываю асинхронные и многопоточные проекты
  - Создаю API и серверные решения
  - Разрабатываю чат-боты
  - Работаю с API, парсерами и различными скриптами для автоматизации задач
- - Пишу все, что пишется 😀
 
 #### 📦 Deploy:
  - Docker, Docker Compose
