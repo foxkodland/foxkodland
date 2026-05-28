@@ -85,7 +85,7 @@
 
 ## 💳 Личный кабинет WB и OZON
 <p align="center">
- <img width="1858" height="704" alt="image" src="https://github.com/user-attachments/assets/f78308b8-854d-4906-9a09-4426e9514a7e" />
+ <img alt="image" src="https://github.com/user-attachments/assets/f78308b8-854d-4906-9a09-4426e9514a7e" />
 </p>
 
 Проект написан мной (python и формулы в таблице), сводный лист в таблице настроен по требованиям заказчика.
